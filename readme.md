@@ -15,3 +15,5 @@
 - Placement Preparation
 - Software Engineering
 - Stack & Queue
+
+#hacktoberfest
